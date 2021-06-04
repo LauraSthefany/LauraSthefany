@@ -1,4 +1,5 @@
 # 💁Olá, eu sou a Laura Sthefany
+![Snake animation](https://github.com/LauraSthefany/LauraSthefany/blob/output/github-contribution-grid-snake.svg)
 ## 💻Linguagens:
 #### HTML5 - CSS3 - PHP - C - Java - MySQL
 ## 🔮Entre em Contato Comigo:
